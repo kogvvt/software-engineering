@@ -18,6 +18,7 @@
 class Kapibara : public Ssak {
 public:
 	void swim();
+    void makeNoise() override;
 };
 
 #endif  //_KAPIBARA_H

@@ -19,6 +19,7 @@ class Kot : public Ssak {
 public:
 	void purr();
 	void cleanYourself();
+    void makeNoise() override;
 };
 
 #endif  //_KOT_H

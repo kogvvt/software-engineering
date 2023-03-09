@@ -27,7 +27,8 @@ public:
 	string eat(string food);
 	string getFurColor();
 	void setFurColor(string furColor);
-	void makeNoise();
+
+    virtual void makeNoise();
 private:
 	int age;
 	int height;

@@ -18,3 +18,7 @@ void Pies::chaseTail() {
     cout << "The dog is chasing it's tail!" <<endl;
 }
 
+void Pies::makeNoise() {
+    cout << "Bark" <<endl;
+}
+

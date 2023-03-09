@@ -20,4 +20,7 @@ void Kot::purr() {
 void Kot::cleanYourself() {
     cout << "The cat is licking itself" <<endl;
 }
+void Kot::makeNoise(){
+    cout << "Meow" <<endl;
+}
 

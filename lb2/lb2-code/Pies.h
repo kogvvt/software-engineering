@@ -18,6 +18,7 @@
 class Pies : public Ssak {
 public:
 	void chaseTail();
+    void makeNoise() override;
 };
 
 #endif  //_PIES_H

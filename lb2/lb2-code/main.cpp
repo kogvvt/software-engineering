@@ -15,6 +15,8 @@ int main() {
     cout << "Cat is " << kicia->getAge() << " years old, has a " << kicia->getFurColor() << " fur color and eats " << kicia->eat("fish") <<endl;
     jamnik->chaseTail();
     kicia->cleanYourself();
+    janusz->swim();
+    kicia->makeNoise();
 
 
     delete jamnik;

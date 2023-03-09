@@ -16,4 +16,6 @@ using namespace std;
 void Kapibara::swim() {
     cout << "The Capybara is swimming!"<<endl;
 }
-
+void Kapibara::makeNoise() {
+    cout << "*growl" <<endl;
+}

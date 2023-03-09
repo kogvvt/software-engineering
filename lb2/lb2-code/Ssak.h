@@ -24,7 +24,7 @@ public:
 	void setAge(int value);
 	void setHeight(int height);
 	void setName(string name);
-	void eat(string food);
+	string eat(string food);
 	string getFurColor();
 	void setFurColor(string furColor);
 	void makeNoise();

@@ -4,7 +4,7 @@
 //
 //  @ Project : Untitled
 //  @ File Name : Jamnik.h
-//  @ Date : 09.03.2023
+//  @ Date : 15.03.2023
 //  @ Author : 
 //
 //
@@ -16,6 +16,10 @@
 #include "Pies.h"
 
 class Jamnik : public Pies {
+public:
+    Jamnik(int age, int height, string name, string furColor,bool isMixed, string race, bool floppyEars);
+	bool floppyEars;
+	void catchABall();
 };
 
 #endif  //_JAMNIK_H

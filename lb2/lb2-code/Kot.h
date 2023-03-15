@@ -4,7 +4,7 @@
 //
 //  @ Project : Untitled
 //  @ File Name : Kot.h
-//  @ Date : 09.03.2023
+//  @ Date : 15.03.2023
 //  @ Author : 
 //
 //
@@ -17,9 +17,10 @@
 
 class Kot : public Ssak {
 public:
+    Kot(int age, int height, string name, string furColor, bool hasWhiskers);
+	bool hasWhiskers;
 	void purr();
 	void cleanYourself();
-    void makeNoise() override;
 };
 
 #endif  //_KOT_H

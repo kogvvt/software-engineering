@@ -4,21 +4,28 @@
 //
 //  @ Project : Untitled
 //  @ File Name : Pies.cpp
-//  @ Date : 09.03.2023
+//  @ Date : 15.03.2023
 //  @ Author : 
 //
 //
 
-
-#include<iostream>
+#include <iostream>
 #include "Pies.h"
 using namespace std;
-
+Pies::Pies(int age, int height, string name, string furColor, bool isMixed, string race)
+: Ssak(age, height, name, furColor){
+    this->isMixed = isMixed;
+    this->race = race;
+}
 void Pies::chaseTail() {
     cout << "The dog is chasing it's tail!" <<endl;
 }
 
-void Pies::makeNoise() {
-    cout << "Bark" <<endl;
+string Pies::getRace() {
+    return race;
+}
+
+void Pies::setRace(string race) {
+    this->race = race;
 }
 

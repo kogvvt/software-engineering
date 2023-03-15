@@ -4,7 +4,7 @@
 //
 //  @ Project : Untitled
 //  @ File Name : Ssak.h
-//  @ Date : 09.03.2023
+//  @ Date : 15.03.2023
 //  @ Author : 
 //
 //
@@ -12,8 +12,8 @@
 
 #if !defined(_SSAK_H)
 #define _SSAK_H
-#include <string>
 using namespace std;
+#include <string>
 
 
 class Ssak {
@@ -24,11 +24,9 @@ public:
 	void setAge(int value);
 	void setHeight(int height);
 	void setName(string name);
-	string eat(string food);
 	string getFurColor();
 	void setFurColor(string furColor);
-
-    virtual void makeNoise();
+	Ssak(int age, int height, string name, string furColor);
 private:
 	int age;
 	int height;

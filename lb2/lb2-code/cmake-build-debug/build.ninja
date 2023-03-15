@@ -79,6 +79,18 @@ build CMakeFiles/lb2_code.dir/Ssak.cpp.obj: CXX_COMPILER__lb2_code_Debug D$:/IO/
   OBJECT_DIR = CMakeFiles\lb2_code.dir
   OBJECT_FILE_DIR = CMakeFiles\lb2_code.dir
 
+build CMakeFiles/lb2_code.dir/Jamnik.cpp.obj: CXX_COMPILER__lb2_code_Debug D$:/IO/software-engineering/lb2/lb2-code/Jamnik.cpp || cmake_object_order_depends_target_lb2_code
+  DEP_FILE = CMakeFiles\lb2_code.dir\Jamnik.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lb2_code.dir
+  OBJECT_FILE_DIR = CMakeFiles\lb2_code.dir
+
+build CMakeFiles/lb2_code.dir/KotNorweskiLesny.cpp.obj: CXX_COMPILER__lb2_code_Debug D$:/IO/software-engineering/lb2/lb2-code/KotNorweskiLesny.cpp || cmake_object_order_depends_target_lb2_code
+  DEP_FILE = CMakeFiles\lb2_code.dir\KotNorweskiLesny.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lb2_code.dir
+  OBJECT_FILE_DIR = CMakeFiles\lb2_code.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target lb2_code
@@ -87,7 +99,7 @@ build CMakeFiles/lb2_code.dir/Ssak.cpp.obj: CXX_COMPILER__lb2_code_Debug D$:/IO/
 #############################################
 # Link the executable lb2_code.exe
 
-build lb2_code.exe: CXX_EXECUTABLE_LINKER__lb2_code_Debug CMakeFiles/lb2_code.dir/main.cpp.obj CMakeFiles/lb2_code.dir/Kapibara.cpp.obj CMakeFiles/lb2_code.dir/Kot.cpp.obj CMakeFiles/lb2_code.dir/Pies.cpp.obj CMakeFiles/lb2_code.dir/Ssak.cpp.obj
+build lb2_code.exe: CXX_EXECUTABLE_LINKER__lb2_code_Debug CMakeFiles/lb2_code.dir/main.cpp.obj CMakeFiles/lb2_code.dir/Kapibara.cpp.obj CMakeFiles/lb2_code.dir/Kot.cpp.obj CMakeFiles/lb2_code.dir/Pies.cpp.obj CMakeFiles/lb2_code.dir/Ssak.cpp.obj CMakeFiles/lb2_code.dir/Jamnik.cpp.obj CMakeFiles/lb2_code.dir/KotNorweskiLesny.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\lb2_code.dir

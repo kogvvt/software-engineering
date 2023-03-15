@@ -4,7 +4,7 @@
 //
 //  @ Project : Untitled
 //  @ File Name : Kot.cpp
-//  @ Date : 09.03.2023
+//  @ Date : 15.03.2023
 //  @ Author : 
 //
 //
@@ -12,15 +12,15 @@
 #include <iostream>
 #include "Kot.h"
 using namespace std;
-
+Kot::Kot(int age, int height, string name, string furColor, bool hasWhiskers)
+: Ssak(age,height,name,furColor) {
+    this->hasWhiskers = hasWhiskers;
+}
 void Kot::purr() {
-    cout << "Purrr....." <<endl;
+    cout << "The cat is purring..." <<endl;
 }
 
 void Kot::cleanYourself() {
-    cout << "The cat is licking itself" <<endl;
-}
-void Kot::makeNoise(){
-    cout << "Meow" <<endl;
+    cout << "The cat is cleaning itself!" <<endl;
 }
 

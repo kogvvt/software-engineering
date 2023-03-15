@@ -6,18 +6,13 @@
 #include "Pies.h"
 using namespace std;
 int main() {
-    Pies* jamnik = new Jamnik();
-    Kot* kicia = new KotNorweskiLesny();
-    Kapibara* janusz = new Kapibara();
-    kicia->setAge(3);
-    kicia->setFurColor("black");
-    kicia->setHeight(10);
-    cout << "Cat is " << kicia->getAge() << " years old, has a " << kicia->getFurColor() << " fur color and eats " << kicia->eat("fish") <<endl;
+    Pies* jamnik = new Jamnik(3,20,"Janusz","Brown",true,"dachshund",true);
+    Kot* kicia = new KotNorweskiLesny(2,30,"Kicia","Black", true, true);
+    Kapibara* janusz = new Kapibara(1,45,"Janusz","Brown",true);
+    cout << "Cat is " << kicia->getAge() << " years old, has a " << kicia->getFurColor() << " fur color" <<endl;
     jamnik->chaseTail();
     kicia->cleanYourself();
     janusz->swim();
-    kicia->makeNoise();
-
 
     delete jamnik;
     delete kicia;

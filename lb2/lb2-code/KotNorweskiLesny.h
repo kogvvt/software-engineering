@@ -4,7 +4,7 @@
 //
 //  @ Project : Untitled
 //  @ File Name : KotNorweskiLesny.h
-//  @ Date : 09.03.2023
+//  @ Date : 15.03.2023
 //  @ Author : 
 //
 //
@@ -16,6 +16,10 @@
 #include "Kot.h"
 
 class KotNorweskiLesny : public Kot {
+public:
+    KotNorweskiLesny(int age, int height, string name, string furColor,bool hasWhiskers, bool isSheding);
+	bool isSheding;
+	void useScratchingPost();
 };
 
 #endif  //_KOTNORWESKILESNY_H

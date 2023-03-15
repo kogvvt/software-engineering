@@ -4,14 +4,13 @@
 //
 //  @ Project : Untitled
 //  @ File Name : Ssak.cpp
-//  @ Date : 09.03.2023
+//  @ Date : 15.03.2023
 //  @ Author : 
 //
 //
 
 
 #include "Ssak.h"
-#include <string>
 using namespace std;
 
 int Ssak::getAge() {
@@ -49,8 +48,10 @@ string Ssak::getFurColor() {
 void Ssak::setFurColor(string furColor) {
     this->furColor = furColor;
 }
-
-void Ssak::makeNoise() {
-
+Ssak::Ssak(int age, int height, string name, string furColor) {
+    this->age = age;
+    this->height = height;
+    this->name = name;
+    this->furColor = furColor;
 }
 

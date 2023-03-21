@@ -37,10 +37,6 @@ void Ssak::setName(string name) {
     this->name = name;
 }
 
-string Ssak::eat(string food) {
-    return food;
-}
-
 string Ssak::getFurColor() {
     return furColor;
 }

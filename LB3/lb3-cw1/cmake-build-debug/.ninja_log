@@ -1,0 +1,9 @@
+# ninja log v5
+23	459	7011257673584811	CMakeFiles/lb3_cw1.dir/Food.cpp.obj	58500ac275a05fe4
+17	461	7011257673584811	CMakeFiles/lb3_cw1.dir/Cook.cpp.obj	db3045b4156530e
+11	535	7011257674339867	CMakeFiles/lb3_cw1.dir/User.cpp.obj	467bc02755812898
+0	543	7011257674434265	CMakeFiles/lb3_cw1.dir/main.cpp.obj	7adffde2b0d75260
+6	550	7011257674501003	CMakeFiles/lb3_cw1.dir/InternetProvider.cpp.obj	390c28393d0d59b6
+550	680	7011257675719506	lb3_cw1.exe	b64733fd4da3e855
+2	311	7011257827594337	CMakeFiles/lb3_cw1.dir/main.cpp.obj	7adffde2b0d75260
+312	400	7011257828446952	lb3_cw1.exe	b64733fd4da3e855

@@ -1,0 +1,8 @@
+# ninja log v5
+1	132	7011278299671808	build.ninja	fe76c06538cb35ec
+6	324	7011282570038099	CMakeFiles/lb3_cw2.dir/CarToRent.cpp.obj	f0311836865a7259
+12	337	7011282570159901	CMakeFiles/lb3_cw2.dir/Client.cpp.obj	4d60a81078cee09
+1	430	7011282571102685	CMakeFiles/lb3_cw2.dir/main.cpp.obj	dfed016ec3e0711b
+430	530	7011282572061271	lb3_cw2.exe	1cf4ad0ffe0dc1b9
+3	305	7011282678800263	CMakeFiles/lb3_cw2.dir/main.cpp.obj	dfed016ec3e0711b
+305	389	7011282679611022	lb3_cw2.exe	1cf4ad0ffe0dc1b9

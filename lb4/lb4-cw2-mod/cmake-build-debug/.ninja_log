@@ -1,0 +1,23 @@
+# ninja log v5
+1	132	7017046893914722	build.ninja	fe76c06538cb35ec
+6	324	7011282570038099	CMakeFiles/lb3_cw2.dir/CarToRent.cpp.obj	f0311836865a7259
+12	337	7011282570159901	CMakeFiles/lb3_cw2.dir/Client.cpp.obj	4d60a81078cee09
+3	305	7011282678800263	CMakeFiles/lb3_cw2.dir/main.cpp.obj	dfed016ec3e0711b
+305	389	7011282679611022	lb3_cw2.exe	1cf4ad0ffe0dc1b9
+2	379	7017075099740312	CMakeFiles/lb3_cw2.dir/CarToRent.cpp.obj	e0f87d1fedafe812
+8	411	7017075653360681	CMakeFiles/lb3_cw2.dir/CarToRent.cpp.obj	e0f87d1fedafe812
+2	416	7017075653400869	CMakeFiles/lb3_cw2.dir/main.cpp.obj	5fbddb230e7817b
+13	489	7017075654151140	CMakeFiles/lb3_cw2.dir/Client.cpp.obj	fccb86bbe7f84878
+490	682	7017075656041669	lb3_cw2.exe	1cf4ad0ffe0dc1b9
+2	351	7017075837491351	CMakeFiles/lb3_cw2.dir/Client.cpp.obj	fccb86bbe7f84878
+356	440	7017075838345722	lb3_cw2.exe	1cf4ad0ffe0dc1b9
+3	377	7017076042426381	CMakeFiles/lb3_cw2.dir/Client.cpp.obj	fccb86bbe7f84878
+377	462	7017076043245206	lb3_cw2.exe	1cf4ad0ffe0dc1b9
+2	410	7017076922290827	CMakeFiles/lb3_cw2.dir/Client.cpp.obj	fccb86bbe7f84878
+410	503	7017076923195414	lb3_cw2.exe	1cf4ad0ffe0dc1b9
+3	414	7017076982918020	CMakeFiles/lb3_cw2.dir/Client.cpp.obj	fccb86bbe7f84878
+414	501	7017076983757613	lb3_cw2.exe	1cf4ad0ffe0dc1b9
+3	315	7017077237675734	CMakeFiles/lb3_cw2.dir/main.cpp.obj	5fbddb230e7817b
+315	407	7017077238563512	lb3_cw2.exe	1cf4ad0ffe0dc1b9
+3	345	7017077872270676	CMakeFiles/lb3_cw2.dir/Client.cpp.obj	fccb86bbe7f84878
+345	426	7017077873063105	lb3_cw2.exe	1cf4ad0ffe0dc1b9

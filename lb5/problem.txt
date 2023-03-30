@@ -1,0 +1,11 @@
+LB5 - dziedzina problemu
+Przykładem, który chciałbym zaprezentować i który można opisać za pomocą relacji danej w zadaniu
+jest przykład struktury firmy bazującej konceptualnie na poprzednio wykonywanych laboratoriach.
+Zmodyfikowany przeze mnie przykład uwzględnia dodatkową klasę menedżerów dziedziczącą po klasie
+pracownik. W danym przeze mnie przypadku uwzględniamy firmę, w której funkcjonowanie 0 pracowników
+jest możliwe poprzez fakt, że w działalności tej znajduje się prezes firmy, który może sam prowadzić firmę
+i nie zatrudniać nikogo. W mojej koncepcji klasa Manager jest pochodną klasy Employee, gdyż posiada ten sam 
+"szkielet" w strukturze firmy, różniąc się większą liczbą przywilejów związaną z jego pozycją.
+
+Pomniejsze uwagi:
+Program został wykonany przy użyciu IDE CLion z użyciem standardu C++11.

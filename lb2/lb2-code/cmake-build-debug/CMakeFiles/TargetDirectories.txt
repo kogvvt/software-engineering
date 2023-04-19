@@ -1,3 +1,0 @@
-D:/IO/software-engineering/lb2/lb2-code/cmake-build-debug/CMakeFiles/lb2_code.dir
-D:/IO/software-engineering/lb2/lb2-code/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/IO/software-engineering/lb2/lb2-code/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,16 @@
+# ninja log v5
+1	141	7053545313389187	build.ninja	5d4be992b09dfc96
+2	60	7053521511454536	CMakeFiles/lb7_code.dir/Power.cpp.obj	27826ea062a994ae
+14	74	7053520274417434	CMakeFiles/lb7_code.dir/Factorial.cpp.obj	f79e9a2a2d617db7
+11	76	7053520274427432	CMakeFiles/lb7_code.dir/Newton.cpp.obj	45a1c9bd5a15902f
+3	267	7053520276355329	CMakeFiles/lb7_code.dir/Bernoulie.cpp.obj	b408dced0015a85f
+0	268	7053520276355329	CMakeFiles/lb7_code.dir/main.cpp.obj	a5d0cdd363e95909
+60	157	7053521512396113	lb7_code.exe	82f102e9282d14ac
+2	252	7053545365171438	CMakeFiles/lb7_code.dir/Bernoulie.cpp.obj	b408dced0015a85f
+252	335	7053545365968586	lb7_code.exe	82f102e9282d14ac
+2	256	7060586150478288	CMakeFiles/lb7_code.dir/main.cpp.obj	a5d0cdd363e95909
+11	260	7060586150523627	CMakeFiles/lb7_code.dir/Newton.cpp.obj	45a1c9bd5a15902f
+7	261	7060586150534868	CMakeFiles/lb7_code.dir/Bernoulie.cpp.obj	b408dced0015a85f
+261	348	7060586151378581	lb7_code.exe	82f102e9282d14ac
+2	243	7060588583611864	CMakeFiles/lb7_code.dir/Newton.cpp.obj	45a1c9bd5a15902f
+243	321	7060588584366419	lb7_code.exe	82f102e9282d14ac

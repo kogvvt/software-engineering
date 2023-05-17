@@ -1,0 +1,8 @@
+# ninja log v5
+2	286	7060590123518128	CMakeFiles/lb7_iter_code.dir/main.cpp.obj	e14be6c3d31ce39d
+2	161	7060591253991605	build.ninja	64d655934c605c49
+3	47	7060584936701825	CMakeFiles/lb7_iter_code.dir/Factorial.cpp.obj	9ff9ea1111199a7
+10	58	7060590121233238	CMakeFiles/lb7_iter_code.dir/Newton.cpp.obj	ae22ebc952ae6361
+3	46	7060589247951196	CMakeFiles/lb7_iter_code.dir/Power.cpp.obj	b150b288dcbd2925
+7	289	7060590123543355	CMakeFiles/lb7_iter_code.dir/Bernoulie.cpp.obj	cb303831d2321f39
+289	368	7060590124312846	lb7_iter_code.exe	cbc0c042ff4a0299

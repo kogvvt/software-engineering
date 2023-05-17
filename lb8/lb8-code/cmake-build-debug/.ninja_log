@@ -1,0 +1,7 @@
+# ninja log v5
+2	193	7060564905728857	build.ninja	c2277df172e61abb
+11	314	7060542259840412	CMakeFiles/lb8_code.dir/main.cpp.obj	1cce41de08f97fae
+14	304	7060542259798699	CMakeFiles/lb8_code.dir/C.cpp.obj	6f24158e694ec9d3
+3	293	7060542259686534	CMakeFiles/lb8_code.dir/B.cpp.obj	fb15642c69db2042
+3	275	7060542612895265	CMakeFiles/lb8_code.dir/A.cpp.obj	7d02b6ac80dea123
+275	357	7060542613684919	lb8_code.exe	86e2bdb9ad869e1f

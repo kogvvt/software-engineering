@@ -1,0 +1,16 @@
+# ninja log v5
+2	153	7091210623205037	build.ninja	2cfac102e282898e
+8	318	7091210627192721	CMakeFiles/lb15_code.dir/Espresso.cpp.obj	cce78ae60399aa02
+0	320	7091210627192721	CMakeFiles/lb15_code.dir/main.cpp.obj	124e3b234ed1f741
+5	329	7091210627306546	CMakeFiles/lb15_code.dir/Americano.cpp.obj	874acefe160b7d8c
+12	341	7091210627412324	CMakeFiles/lb15_code.dir/Coffee.cpp.obj	1670acf0023f43f1
+341	448	7091210628471516	lb15_code.exe	e6ea05d73fba0c34
+8	250	7091211571425888	CMakeFiles/lb15_code.dir/Espresso.cpp.obj	cce78ae60399aa02
+3	250	7091211571425888	CMakeFiles/lb15_code.dir/main.cpp.obj	124e3b234ed1f741
+250	327	7091211572177007	lb15_code.exe	e6ea05d73fba0c34
+2	232	7091215785538903	CMakeFiles/lb15_code.dir/main.cpp.obj	124e3b234ed1f741
+232	312	7091215786314128	lb15_code.exe	e6ea05d73fba0c34
+6	241	7091218475596918	CMakeFiles/lb15_code.dir/Americano.cpp.obj	874acefe160b7d8c
+2	241	7091218475596918	CMakeFiles/lb15_code.dir/main.cpp.obj	124e3b234ed1f741
+10	243	7091218475627321	CMakeFiles/lb15_code.dir/Espresso.cpp.obj	cce78ae60399aa02
+243	320	7091218476364810	lb15_code.exe	e6ea05d73fba0c34
